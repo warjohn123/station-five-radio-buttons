@@ -1,4 +1,4 @@
-export const apiResult = {
+export const apiResult: any = {
   menus: [
     // first group of radio-buttons
     [
